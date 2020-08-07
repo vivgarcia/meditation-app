@@ -1,3 +1,3 @@
 # Meditation Applicaton
 
-To View: ![https://vivgarcia.github.io/meditation-app/](Click Here)
+To View: [Click Here](https://vivgarcia.github.io/meditation-app/)
